@@ -67,8 +67,8 @@ Beyond standard web development, I build custom end-to-end solutions for real cl
 
 ## 📬 Connect With Me
 
-- 🏢 **Company:** [LogicWise Works](https://logicwiseworks.com/)
-- 📧 **Email:** steve@logicwiseworks.com
+- 🏢 **Works At:** [LogicWise Works](https://logicwiseworks.com/)
+- 📧 **Email:** shyampatodiy@007@gmail.com
 
 ---
 
