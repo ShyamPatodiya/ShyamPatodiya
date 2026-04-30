@@ -6,9 +6,9 @@ Full-Stack Developer with hands-on experience designing, building, and deploying
 
 ---
 
-## 🚀 Core Stack & Technologies
+## Core Stack & Technologies
 
-### Frontend & Web Applications
+### 🛠️ Frontend & Web Applications
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ Full-Stack Developer with hands-on experience designing, building, and deploying
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ag-Grid](https://img.shields.io/badge/ag--Grid-FF6B00?style=for-the-badge&logo=ag-grid&logoColor=white)
 
-### Data Visualization & Mapping
+### 📊 Data Visualization & Mapping
 
 ![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apache&logoColor=white)
 ![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apache-echarts&logoColor=white)
@@ -25,14 +25,14 @@ Full-Stack Developer with hands-on experience designing, building, and deploying
 ![jsPDF](https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![html2canvas](https://img.shields.io/badge/html2canvas-2196F3?style=for-the-badge&logo=html5&logoColor=white)
 
-### No-Code / Low-Code Platforms
+### 📱 No-Code / Low-Code Platforms
 
 ![AppSheet](https://img.shields.io/badge/AppSheet-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-### AI & Developer Tooling
+### 🤖 AI & Developer Tooling
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
